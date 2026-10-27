@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## Sebastian Andres Granados Acevedo
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
