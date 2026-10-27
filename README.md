@@ -1,12 +1,11 @@
-# CV_Example
+
 # Hoja de Vida
 
 ## Sebastian Andres Granados Acevedo
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [granados.sebastian1998@gmail.com](mailto:granados.sebastian1998@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
